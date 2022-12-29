@@ -29,3 +29,12 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: python get_latest_video_data.py
+        
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "clara8043"
+          git config user.email "clara8043@gmail.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
