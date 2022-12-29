@@ -10,8 +10,8 @@ import re
 # from config_dream import api_key,channel_id 
 import os
 
-api_key = os.environ.get('API_KEY')
-channel_id = os.environ.get('CHANNEL_ID')
+api_key = os.environ['API_KEY']
+channel_id = os.environ['CHANNEL_ID']
 
 youtube = googleapiclient.discovery.build('youtube','v3',developerKey = api_key)
 
