@@ -1,0 +1,33 @@
+name: Update database
+
+on:
+  push:
+  workflow_dispatch:
+  schedule : 
+    - cron : '*/10 * * * *'
+  
+# env:
+#   DEVOPS_DIR: devops
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Access the repo
+        uses: actions/checkout@v2
+
+      - name: Configure Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute Python Script
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+        run: python get_video_data_dream.py
