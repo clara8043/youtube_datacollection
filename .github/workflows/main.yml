@@ -1,3 +1,4 @@
+#Reference : https://actions-pipeline.readthedocs.io/en/latest/
 name: Update database
 
 on:
@@ -5,9 +6,6 @@ on:
   workflow_dispatch:
   schedule : 
     - cron : '*/10 * * * *'
-  
-# env:
-#   DEVOPS_DIR: devops
       
 jobs:
   build:
