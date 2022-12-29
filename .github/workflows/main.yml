@@ -1,11 +1,12 @@
-#Reference : https://actions-pipeline.readthedocs.io/en/latest/
+#Reference1 : https://actions-pipeline.readthedocs.io/en/latest/
+#Reference2 : https://actions-pipeline.readthedocs.io/en/latest/
 name: Update database
 
 on:
   push:
   workflow_dispatch:
   schedule : 
-    - cron : '*/10 * * * *'
+    - cron : '0 0 * * 0'
       
 jobs:
   build:
