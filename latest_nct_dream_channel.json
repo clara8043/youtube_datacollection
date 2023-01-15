@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "C0e5BzDfdex-n_dgEapmFftKuTQ",
+    "etag": "J07vCcyDL-3393rqBY0DTG-rC1o",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,7 +8,7 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "4qEDlbSXR9goIJE5DeQ9R4q3zLg",
+            "etag": "ogbnxKK0Dw60gq5S4Hf73YvmYI0",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
@@ -45,10 +45,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "989455769",
-                "subscriberCount": "5590000",
+                "viewCount": "1002410146",
+                "subscriberCount": "5610000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "495"
+                "videoCount": "500"
             }
         }
     ]
