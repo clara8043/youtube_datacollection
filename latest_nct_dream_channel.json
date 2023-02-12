@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "BDkr0XhMSBfP1fs1Q0KK5J2ikMY",
+    "etag": "FyleYbYHtZJduIFLoeZCKsQKTBE",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,11 +8,11 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "iTJY32ixBuoVuMoPNg0kMwiyIjo",
+            "etag": "iSSedzUQt3mZ8zMKcJJd54ijOlY",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "NCT DREAM Winter Special Mini Album 〖Candy〗➫ 2022.12.19 (KST)\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "Welcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
@@ -34,7 +34,7 @@
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "NCT DREAM Winter Special Mini Album 〖Candy〗➫ 2022.12.19 (KST)\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "Welcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -45,10 +45,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "1035617904",
-                "subscriberCount": "5670000",
+                "viewCount": "1046030995",
+                "subscriberCount": "5700000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "504"
+                "videoCount": "505"
             }
         }
     ]
