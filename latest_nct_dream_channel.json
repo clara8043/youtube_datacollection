@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "__1yMWR3mcyq_r921TGPxeWye2M",
+    "etag": "7TTM22jm8RJK5w8d3-gbSpsz0yQ",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,11 +8,11 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "R20Kt8mostuGvfUuzi7874uYHI8",
+            "etag": "Fw9BJ_5I7w_k_3gg9jb7agwr9ak",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "'Broken Melodies' ➫ 2023.06.19 6PM (KST)\n【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
@@ -34,7 +34,7 @@
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "'Broken Melodies' ➫ 2023.06.19 6PM (KST)\n【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -45,10 +45,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "1254003093",
-                "subscriberCount": "6080000",
+                "viewCount": "1267930472",
+                "subscriberCount": "6120000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "558"
+                "videoCount": "567"
             }
         }
     ]
