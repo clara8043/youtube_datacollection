@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "YIUqdbTqnixIV3J0gMZonMqBNzY",
+    "etag": "JdIy67NC8LRaEzbdHcrf03tBy8Q",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,11 +8,11 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "VDx_wY626U0LwY18JE01rkr3K0k",
+            "etag": "bVM3blcRJcSMdnwtsVNGh3H86c8",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "NCT DREAM 【ISTJ - The 3rd Album】\n\nWelcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
@@ -34,7 +34,7 @@
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "【ISTJ - The 3rd Album】 ➫ 2023.07.17 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "NCT DREAM 【ISTJ - The 3rd Album】\n\nWelcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -45,10 +45,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "1333474283",
-                "subscriberCount": "6280000",
+                "viewCount": "1362474612",
+                "subscriberCount": "6340000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "585"
+                "videoCount": "615"
             }
         }
     ]
