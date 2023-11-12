@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "8geyuXt88rTx9hX5Gnlmg8RN_IE",
+    "etag": "ujXU7-Cw7Dz_5hfAbLsFabcLfw8",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,33 +8,33 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "DnInIDNWyENm8MAk4m3vD9net5g",
+            "etag": "stjV5mlQXgjc_gqYPmDWFmrCnTY",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "NCT DREAM 【ISTJ - The 3rd Album】\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗➫ 2023.11.17 12AM (EST)\n\nWelcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/8RHz1p1aZFxia6aNoo0rAIciDbMTbW2nQmEdJXU6BCmQLV9771JGk3llA95arSYJnLI4Qojo=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s88-c-k-c0x00ffffff-no-nd-rj",
                         "width": 88,
                         "height": 88
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/8RHz1p1aZFxia6aNoo0rAIciDbMTbW2nQmEdJXU6BCmQLV9771JGk3llA95arSYJnLI4Qojo=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s240-c-k-c0x00ffffff-no-nd-rj",
                         "width": 240,
                         "height": 240
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/8RHz1p1aZFxia6aNoo0rAIciDbMTbW2nQmEdJXU6BCmQLV9771JGk3llA95arSYJnLI4Qojo=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s800-c-k-c0x00ffffff-no-nd-rj",
                         "width": 800,
                         "height": 800
                     }
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "NCT DREAM 【ISTJ - The 3rd Album】\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗➫ 2023.11.17 12AM (EST)\n\nWelcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -48,7 +48,7 @@
                 "viewCount": "1523199859",
                 "subscriberCount": "6530000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "688"
+                "videoCount": "690"
             }
         }
     ]
