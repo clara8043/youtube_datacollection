@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "ujXU7-Cw7Dz_5hfAbLsFabcLfw8",
+    "etag": "7Ck-WDO6R5tc44Koss-h_i1PVAg",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,11 +8,11 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "stjV5mlQXgjc_gqYPmDWFmrCnTY",
+            "etag": "gRhR5UsEDrqDZEW9zLRkYrV7fK0",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗➫ 2023.11.17 12AM (EST)\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗\n\nWelcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
@@ -34,7 +34,7 @@
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗➫ 2023.11.17 12AM (EST)\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗\n\nWelcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -45,10 +45,10 @@
                 }
             },
             "statistics": {
-                "viewCount": "1523199859",
-                "subscriberCount": "6530000",
+                "viewCount": "1538563324",
+                "subscriberCount": "6540000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "690"
+                "videoCount": "692"
             }
         }
     ]
