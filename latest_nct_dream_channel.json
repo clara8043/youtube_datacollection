@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "SlSNX0dWThs7H9OmoumB0xqpQdA",
+    "etag": "AK45nkyrWRqWEFoB5nafGFlawg0",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,33 +8,33 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "227mdWlcsWbHToYhGMdE3318I5I",
+            "etag": "3Da2jiWaJb4krW0DHIafgmFIL2k",
             "id": "UCXURHJRGr4-EB3l87kcbElw",
             "snippet": {
                 "title": "NCT DREAM",
-                "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗\n\nWelcome to NCT DREAM Official Youtube Channel",
+                "description": "NCT DREAM 【DREAM( )SCAPE】 ➫ 2024.03.25 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel",
                 "customUrl": "@nctdream",
                 "publishedAt": "2017-06-07T05:50:32Z",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/j63e8P5XdvbOSgyG2jANLgiJsOt65rBClISchWW5DxLhU8SkwMe3AStMfHBLmQqi1PiolrMzmzQ=s88-c-k-c0x00ffffff-no-nd-rj",
                         "width": 88,
                         "height": 88
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/j63e8P5XdvbOSgyG2jANLgiJsOt65rBClISchWW5DxLhU8SkwMe3AStMfHBLmQqi1PiolrMzmzQ=s240-c-k-c0x00ffffff-no-nd-rj",
                         "width": 240,
                         "height": 240
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/kfshVYFKhR76LWsd8DzoxR7LwOQ-x_LoJjCfYdo0dy8u_T8UqKasY70LnqgyfD7dipsdZ_8Hzw=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "url": "https://yt3.ggpht.com/j63e8P5XdvbOSgyG2jANLgiJsOt65rBClISchWW5DxLhU8SkwMe3AStMfHBLmQqi1PiolrMzmzQ=s800-c-k-c0x00ffffff-no-nd-rj",
                         "width": 800,
                         "height": 800
                     }
                 },
                 "localized": {
                     "title": "NCT DREAM",
-                    "description": "NCT DREAM 〖Broken Melodies (JVKE Remix)〗\n\nWelcome to NCT DREAM Official Youtube Channel"
+                    "description": "NCT DREAM 【DREAM( )SCAPE】 ➫ 2024.03.25 6PM (KST)\n\nWelcome to NCT DREAM Official Youtube Channel"
                 },
                 "country": "KR"
             },
@@ -46,9 +46,9 @@
             },
             "statistics": {
                 "viewCount": "1636791943",
-                "subscriberCount": "6680000",
+                "subscriberCount": "6700000",
                 "hiddenSubscriberCount": false,
-                "videoCount": "722"
+                "videoCount": "727"
             }
         }
     ]
